@@ -57,7 +57,7 @@ public class ImportPage {
 		
 		// Add logo
 		ImageIcon image = new ImageIcon(
-			    getClass().getResource("/week6/download.png")
+			    getClass().getResource("/download.png")
 			);
 		frame.setIconImage(image.getImage());
 		
